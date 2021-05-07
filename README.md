@@ -1,6 +1,6 @@
 # Python Automation for Text Categorization
 
-This is an automation project using Python to make data cleaning easier. The script READs data from multiple spreadsheets, performs descriptiive and diagnistic analytics, and then WRITEs the data to a target spreadsheet.
+This is an automation project using Python to make data cleaning easier. The script READs data from multiple spreadsheets, performs descriptive and diagnistic analytics, and then WRITEs the data to a target spreadsheet.
 
 ##===Requirements===
 - Google Cloud Console Access
