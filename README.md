@@ -13,5 +13,5 @@ I have used [PyGSheets](https://github.com/nithinmurali/pygsheets) because it su
 1. Follow [the steps](https://pygsheets.readthedocs.io/en/stable/authorization.html#oauth-credentials) and authenticate the app with Google Docs API key in JSON format. 
 2. Rename the file to credentials.json and retain in the same directory as Automation.py.
 3. Find the Sheet ID of the source document as well as target document, and insert the ID in the code. 
-4. Run the script; When prompted authenticate with the screen key obtained from Google Docs API.
+4. Run the script; When prompted, authenticate with the secret key obtained from Google Docs API.
 5. That's it! 
