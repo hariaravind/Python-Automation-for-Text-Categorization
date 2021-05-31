@@ -1,4 +1,4 @@
-# Python Automation for Text Categorization
+# Automation for Text Categorization using Python
 
 This is an automation project using Python to make data cleaning easier. The script READs data from multiple spreadsheets, performs multiclass text classification from raw strings, and then WRITEs the data to a target spreadsheet.
 
